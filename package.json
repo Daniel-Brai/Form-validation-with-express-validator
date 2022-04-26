@@ -1,0 +1,20 @@
+{
+  "name": "form-validation-node-js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
